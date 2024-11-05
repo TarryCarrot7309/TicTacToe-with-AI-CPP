@@ -1,0 +1,16 @@
+# Temporary files
+*.autosave
+*.user
+*.qbs.user
+*.qbs.user.*
+*.vscode
+*.idea
+
+# Qt files and libraries
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+Makefile*
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
